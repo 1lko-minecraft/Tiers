@@ -1,4 +1,13 @@
 {
-  "6553509f-66d3-4041-875f-164236e42e84": { "text": "HT1", "color": "#FFAA00" },
-  "1lko": { "text": "RHT1", "color": "#55FF55" }
+  "6553509f-66d3-4041-875f-164236e42e84": {
+    "text": "HT1",
+    "color": "#FFAA00"
+  },
+  "1lko": {
+    "text": "RHT1",
+    "color": "#55FF55"
+  },
+  "9jfo": {
+    "vanilla": "HT1"
+  }
 }

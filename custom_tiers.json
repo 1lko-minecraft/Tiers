@@ -13,7 +13,7 @@
     "smp": "HT3",
     "uhc": "HT3",
     "pot": "LT2",
-    "mace": "LT3"
+    "mace": "RLT1"
   },
   "9jfo": {
     "vanilla": "RHT1",

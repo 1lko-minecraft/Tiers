@@ -7,9 +7,9 @@
     "text": "RHT1",
     "color": "#55FF55",
     "vanilla": "LT1",
-    "mace": "RHT1",
     "nethop": "RLT2",
-    "sword": "HT3"
+    "sword": "HT3",
+    "mace": "LT3"
   },
   "9jfo": {
     "vanilla": "RHT1"

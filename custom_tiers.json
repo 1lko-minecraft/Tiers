@@ -9,7 +9,8 @@
     "vanilla": "LT1",
     "nethop": "RLT2",
     "sword": "HT3",
-    "mace": "LT3"
+    "mace": "LT3",
+    "axe": "HT3"
   },
   "9jfo": {
     "vanilla": "RHT1"

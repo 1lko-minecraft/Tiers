@@ -6,7 +6,8 @@
   "1lko": {
     "text": "RHT1",
     "color": "#55FF55",
-    "vanilla": "LT1"
+    "vanilla": "LT1",
+    "sword": "LT2"
   },
   "9jfo": {
     "vanilla": "RHT1"
